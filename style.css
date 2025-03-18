@@ -17,12 +17,18 @@ body{
 }
 
 #check-btn{
-    background-color: aquamarine;
+    background-color: green;
     border-radius: 8px;
-    border-color: aquamarine;
+    border-color: green;
     height: 45px;
     width: 100px;
     margin-top: 20px;
+}
+
+#result{
+    color: green;
+    font-weight: bold;
+    margin-top: 10px;
 }
 
 footer {
